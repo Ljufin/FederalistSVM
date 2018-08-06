@@ -1,0 +1,2 @@
+# Authorship Classification of The Federalist Papers using SVM
+The goal of this project is to correctly determine the authorship of the *disputed papers*. The method is based on a paper by Glen Fung.(link)
